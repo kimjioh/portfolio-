@@ -44,7 +44,7 @@
   overflow: hidden;
 }
 #first_p #main .text .anim-typewriter {
-  animation: typewriter 3s steps(44) 2.5s 1 normal both, blinkTextCursor 0.4s steps(44) infinite normal;
+  animation: typewriter 3s steps(44) 2.5s 1 normal both, blinkTextCursor 0.5s steps(44) infinite normal;
 }
 #first_p #main .text hr {
   border: 0;
